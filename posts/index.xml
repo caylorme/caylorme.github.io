@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Caylor.me</title><link>/posts/</link><description>Recent content in Posts on Caylor.me</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>©2022 caylor.me</copyright><lastBuildDate>Thu, 28 Apr 2022 20:47:35 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome</title><link>/posts/welcome/</link><pubDate>Thu, 28 Apr 2022 20:47:35 -0400</pubDate><guid>/posts/welcome/</guid><description>Hello, welcome to the new caylor.me.
+This website is now hosted on GitHub Pages and is generated using Hugo.
+Code Blocks package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;hello world&amp;#34;) } Tables First Header Second Header Content Cell Content Cell Content Cell Content Cell</description><content>&lt;p>Hello, welcome to the new caylor.me.&lt;/p>
+&lt;p>This website is now hosted on GitHub Pages and is generated using Hugo.&lt;/p>
+&lt;h1 id="code-blocks">Code Blocks&lt;/h1>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">package&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">import&lt;/span> &lt;span style="color:#e6db74">&amp;#34;fmt&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">func&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>() {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">fmt&lt;/span>.&lt;span style="color:#a6e22e">Println&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;hello world&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h1 id="tables">Tables&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>First Header&lt;/th>
+&lt;th>Second Header&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Content Cell&lt;/td>
+&lt;td>Content Cell&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Content Cell&lt;/td>
+&lt;td>Content Cell&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></content></item></channel></rss>
